@@ -1,0 +1,15 @@
+/workspaces/linux/bin/Debug/net10.0/linux
+/workspaces/linux/bin/Debug/net10.0/linux.deps.json
+/workspaces/linux/bin/Debug/net10.0/linux.runtimeconfig.json
+/workspaces/linux/bin/Debug/net10.0/linux.dll
+/workspaces/linux/bin/Debug/net10.0/linux.pdb
+/workspaces/linux/obj/Debug/net10.0/linux.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/linux/obj/Debug/net10.0/linux.AssemblyInfoInputs.cache
+/workspaces/linux/obj/Debug/net10.0/linux.AssemblyInfo.cs
+/workspaces/linux/obj/Debug/net10.0/linux.csproj.CoreCompileInputs.cache
+/workspaces/linux/obj/Debug/net10.0/linux.sourcelink.json
+/workspaces/linux/obj/Debug/net10.0/linux.dll
+/workspaces/linux/obj/Debug/net10.0/refint/linux.dll
+/workspaces/linux/obj/Debug/net10.0/linux.pdb
+/workspaces/linux/obj/Debug/net10.0/linux.genruntimeconfig.cache
+/workspaces/linux/obj/Debug/net10.0/ref/linux.dll
